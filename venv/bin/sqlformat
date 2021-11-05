@@ -1,4 +1,4 @@
-#!/Users/rafael/Code/SDGKU/temp/news/venv/bin/python3
+#!/home/justine0025/COde/SDGKU/news/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
